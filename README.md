@@ -9,4 +9,7 @@ Consider the metadata of 45,000 movies listed in the Full MovieLens Dataset.
 
 ## genre - wrangling with json
 build a chord diagram by Chord
-![](plots/out.html)
+![](plots/1.png)
+
+can insert an html in md, here we go:
+![](plots/movie.gif)
